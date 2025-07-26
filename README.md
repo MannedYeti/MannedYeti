@@ -6,7 +6,7 @@
 🔍 Currently learning: OSINT, Red Team tactics, Linux, Python  
 🎯 Building toward: Ethical hacking certifications & professional role  
 📚 Platforms: TryHackMe | Hack The Box | OSINT Dojo  
-🌐 [LinkedIn](www.linkedin.com/in/shea-trout-88146b375) • [TryHackMe] (<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5238834" style='border:none;'></iframe>) • [HTB] (https://academy.hackthebox.com/profile/mannedyeti)
+🌐 [LinkedIn](www.linkedin.com/in/shea-trout-88146b375) • [TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5238834" style='border:none;'></iframe>) 
 
 > "Always learning. Always watching."
 
